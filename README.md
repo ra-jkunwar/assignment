@@ -59,7 +59,7 @@ Contents can be added using **API** endpoint: **POST /addcontent**
 
 
 ## Author
-* LinkedIn: [@Prashant Kumar](https://www.linkedin.com/in/prashant-kumar-7aa9a4203/)
+* LinkedIn: [@Raj Kunwar Singh](https://www.linkedin.com/in/raj-kunwar-singh-7593641a6/)
 * Email: [@rajKunwar](mailto:webdevthakur@gmail.com)
 
 ## Issues
